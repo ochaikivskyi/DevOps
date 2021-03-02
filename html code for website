@@ -1,0 +1,16 @@
+
+<HTML>
+<HEAD>
+<TITLE>WEBSERVER-1</TITLE>
+
+<BODY  bgcolor=black>
+<CENTER>
+<font color="white"><h2>Hello <font color="yellow">World!</font><br>
+
+
+<font color="red"><H1 ID="elastic" ALIGN="Center">THIS IS MY WEBSERVER</H1>
+
+<br>
+<font color = "gold">Version 1.0</font>
+</body>
+</HTML>
